@@ -1,0 +1,86 @@
+    body{
+      background-image:url(../flight1.jpg);
+      background-repeat:no-repeat;
+      background-size:cover;
+      background-attachment: fixed;
+    }
+    li{
+      text-align: center;
+    }
+    p{
+      text-align: center;
+      line-height: 100%;
+      margin: 20px;
+      margin-top:0px;
+    }
+    td,th{
+      padding: 0.6em 2em;
+      width: 180px;
+      overflow: hidden;
+    }
+    h2{
+      text-align: center;
+    }
+    h3{
+      text-align: center;
+    }
+    .color-white{
+      color:#FFF;
+    }
+    .color-1{
+      color:#444444;
+    }
+    .root-content{
+      border-top: 0px ridge #000;
+    }
+    .row-content {
+        margin:0px auto;
+        padding: 50px 0px 50px 0px;
+        border-top: 2px ridge #999900;
+        min-height:120px;
+    }
+    .flight-div1 {
+      padding-top: 20px;
+      padding-bottom: 0px;
+    }
+    .flight-div2 {
+      padding-top: 15px;
+      padding-bottom: 15px;
+    }
+    .flight-div3 {
+      border-top: 1px ridge #999900;
+      padding-top: 30px;
+      padding-bottom: 0px;
+    }
+    .border1 {
+      border: 1px ridge blue
+    }
+    .div1{
+      position:fixed;
+      margin: 10px 0 0 20px;
+    }
+    .div2{
+      position:fixed;
+      margin: 86px 0px 0 98px;
+    }
+    .div3{
+      position:fixed;
+      margin: 96px 0px 0 89px;
+    }
+    .div4{
+      position:fixed;
+      margin: 96px 0 0 272px;
+    }
+    .div5{
+      position:fixed;
+      margin: 96px 0 0 440px;
+    }
+    .padding-div {
+      position: fixed;
+      margin: 0px 0 0 0px;
+      border-top: 2px ridge #000;
+    }
+    .padding-p {
+      margin-top:7px;
+    }
+    
